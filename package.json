@@ -17,7 +17,7 @@
   "license": "AGPL-3.0-or-later",
   "dependencies": {
     "@stomp/stompjs": "^5.4.4",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "prop-types": "^15.7.2",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
